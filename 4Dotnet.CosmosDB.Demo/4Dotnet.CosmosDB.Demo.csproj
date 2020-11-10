@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Dotnet.CosmosDB.Demo</RootNamespace>
+    <UserSecretsId>dfa98678-c5ae-46d5-a094-2fe863dcb691</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Cosmos" Version="5.0.0" />
+  </ItemGroup>
+
+
+</Project>
